@@ -3,7 +3,7 @@ grails-foundation4-resources-plugin
 
 Grails plugin for Zurb Foundation 4 (http://foundation.zurb.com/).
 
-Current version is 4.3.2.1, the numbering is based on Foundation release numbering, plus plugin version number: <4.3.2>.<1>, where 4.3.2 is the current Foundation release version.
+Current version is 4.3.2.1, the numbering is based on Foundation release numbering, plus plugin version number: &lt;4.3.2&gt;.&lt;1&gt;, where 4.3.2 is the current Foundation release version.
 
 Simple usage
 ------------
