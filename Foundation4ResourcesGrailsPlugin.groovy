@@ -1,4 +1,4 @@
-class GrailsFoundation4ResourcesGrailsPlugin {
+class Foundation4ResourcesGrailsPlugin {
     // the plugin version
     def version = "4.3.2.1"
     // the version or versions of Grails the plugin is designed for
